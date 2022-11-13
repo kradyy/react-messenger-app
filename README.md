@@ -1,7 +1,8 @@
 # react-messenger-app
 
-A messenger app clone created with Firebase
+A lightweight messenger app clone created with Firebase 🔥
 
+ 
 Firebase URL: https://messe-af795.web.app
 
 ### `npm start`
